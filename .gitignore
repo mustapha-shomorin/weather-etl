@@ -1,0 +1,23 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.sqlite3
+
+# Environment
+.env
+.venv/
+env/
+venv/
+
+# Logs
+logs/
+
+# Data
+data/weather_data.db
+
+# Visuals
+visuals/*.png
+
+# OS files
+.DS_Store
+Thumbs.db
